@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @daumantask. I'm .NET software developer with previous experience as QA engineer with strong focus to API test automation.
+- 👀 I’m interested in automation ideas I came with and areas I'm less familiar (e.g. full stack development, new technologies)
+- 🌱 I’m currently learning Fundamentals of Web Apps from https://fullstackopen.com/en/about
+- 📫 How to reach me https://www.linkedin.com/in/daumantas-kirdeikis/
